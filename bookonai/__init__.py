@@ -1,0 +1,2 @@
+"""BookOn AI recommendation service."""
+
