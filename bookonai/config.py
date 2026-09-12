@@ -72,4 +72,3 @@ SCHOOL_BOOK_SOURCE_COLUMNS = [
     "status",
     "deleted_at",
 ]
-

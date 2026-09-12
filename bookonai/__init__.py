@@ -1,2 +1,1 @@
 """BookOn AI recommendation service."""
-
